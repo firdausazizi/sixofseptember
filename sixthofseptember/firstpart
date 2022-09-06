@@ -1,0 +1,18 @@
+# Created by Octave 7.2.0, Tue Sep 06 14:45:01 2022 GMT <unknown@IT-LAB7-PC27>
+# name: f
+# type: function handle
+@<anonymous>
+@(x) x ^ 2
+
+
+# name: f1
+# type: function handle
+@<anonymous>
+@(x) 2 * x
+
+
+# name: x
+# type: scalar
+6.2230152778611417e-61
+
+

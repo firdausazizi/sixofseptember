@@ -1,0 +1,23 @@
+# Created by Octave 7.2.0, Tue Sep 06 15:31:00 2022 GMT <unknown@IT-LAB7-PC27>
+# name: e
+# type: scalar
+0.0009765625
+
+
+# name: f
+# type: function handle
+@<anonymous>
+@(x) x ^ 3 - 5
+
+
+# name: f1
+# type: function handle
+@<anonymous>
+@(x) 3 * x ^ 2
+
+
+# name: x
+# type: scalar
+1.7099609375
+
+
